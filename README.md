@@ -11,8 +11,8 @@ These instructions will get you a copy of the project up and running on your loc
 GitHub either on the web or desktop.
 ```
 ## HEADER, ADDING NEW MODULE to EDIT
+* NEW MODULE
 
-## HEADER, ADDING NEW MODULE for EDITING
 
 ## Deployment
 
